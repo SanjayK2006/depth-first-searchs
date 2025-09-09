@@ -1,4 +1,3 @@
-<img width="135" height="83" alt="image" src="https://github.com/user-attachments/assets/0c91f082-65bc-4275-9b16-fff098c9a611" /><h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 <h3>Name: SANJAY K</h3>
 <h3>Register Number:212223220094 </h3>
 <H3>Aim:</H3>
